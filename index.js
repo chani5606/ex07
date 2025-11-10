@@ -1,3 +1,2 @@
 const a =()=>{
-    alert("hello")
-}
+return hello;}
