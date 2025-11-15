@@ -3,4 +3,9 @@ const a =()=>{
     return hello;}
 
 
+const c =()=>{
+    alert("c")
+    }
+
+
 
